@@ -72,3 +72,5 @@ else
     echo "0 0 * * * root /root/Automation_Project/automation.sh" > /etc/cron.d/automation
     echo "Cron job added"
 fi
+
+# End of Script...
